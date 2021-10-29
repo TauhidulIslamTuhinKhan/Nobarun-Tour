@@ -1,0 +1,7 @@
+.about-section {
+    background-image: url('https://i.ibb.co/cY3THKk/about.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 70vh;
+}

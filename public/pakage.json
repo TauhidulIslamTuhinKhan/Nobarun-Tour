@@ -1,0 +1,63 @@
+[
+    {
+        "key": "10000101", 
+        "country": "UNITED KINGDOM",       
+        "location": "LONDON",    
+        "image": "https://i.ibb.co/Prnv156/london.jpg",        
+        "description": "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city."        
+    },
+        
+    {
+        "key": "10000102", 
+        "country": "UNITED ARAB EMIRATES",       
+        "location": "DUBAI",    
+        "image": "https://i.ibb.co/s1svWKy/dubai.jpg",        
+        "description": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks."        
+    },
+    {
+        "key": "10000103", 
+        "country": "AUSTRALIA",
+        "location": "SYDNEY",    
+        "image": "https://i.ibb.co/KL4Fpmp/sydny.jpg",      
+        "description": "Sydney, capital of New South Wales and one of Australia's largest cities, is best known for its harbourfront Sydney Opera House, with a distinctive sail-like design. Massive Darling Harbour and the smaller Circular Quay port are hubs of waterside life, with the arched Harbour Bridge and esteemed Royal Botanic Garden nearby. Sydney Tower’s outdoor platform, the Skywalk, offers 360-degree views of the city and suburbs."        
+    },
+    {
+        "key": "10000104",
+        "country": "INDIA",        
+        "location": "KASMIR",    
+        "image": "https://i.ibb.co/LSsK3Mn/kasmir.jpg",      
+        "description": "Kashmir, region of the northwestern Indian subcontinent. It is bounded by the Uygur Autonomous Region of Xinjiang to the northeast and the Tibet Autonomous Region to the east (both parts of China), by the Indian states of Himachal Pradesh and Punjab to the south, by Pakistan to the west, and by Afghanistan to the northwest. The region, with a total area of some 85,800 square miles (222,200 square km), has been the subject of dispute between India and Pakistan since the partition of the Indian subcontinent in 1947. The northern and western portions are administered by Pakistan and comprise three areas: Azad Kashmir, Gilgit, and Baltistan, the last two being part of a single administrative unit called Gilgit-Baltistan (formerly Northern Areas). Administered by India are the southern and southeastern portions, Jammu and Kashmir and Ladakh. The Indian- and Pakistani-administered portions are divided by a “line of control” agreed to in 1972, although neither country recognizes it as an international boundary. In addition, China became active in the eastern area of Kashmir in the 1950s and has controlled the northeastern part of Ladakh (the easternmost portion of the region) since 1962."        
+    },
+    {
+        "key": "10000105",
+        "country": "TURKEY",        
+        "location": "ISTANBUL",    
+        "image": "https://i.ibb.co/SJXnYq5/istanbul.jpg",       
+        "description": "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics."        
+    },
+    {
+        "key": "10000106", 
+        "country": "BRAZIL",       
+        "location": "RIO DE JANEIRO",    
+        "image": "https://i.ibb.co/0nn0hzq/rio-de-janeiro.jpg",      
+        "description": "Rio de Janeiro is a huge seaside city in Brazil, famed for its Copacabana and Ipanema beaches, 38m Christ the Redeemer statue atop Mount Corcovado and for Sugarloaf Mountain, a granite peak with cable cars to its summit. The city is also known for its sprawling favelas (shanty towns). Its raucous Carnaval festival, featuring parade floats, flamboyant costumes and samba dancers, is considered the world’s largest."        
+    },
+        
+    {
+        "key": "10000107", 
+        "country": "ITALY",       
+        "location": "VENICE",    
+        "image": "https://i.ibb.co/BfYnZHx/venice.jpg",      
+        "description": "Venice, the capital of northern Italy’s Veneto region, is built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals – including the Grand Canal thoroughfare – lined with Renaissance and Gothic palaces. The central square, Piazza San Marco, contains St. Mark’s Basilica, which is tiled with Byzantine mosaics, and the Campanile bell tower offering views of the city’s red roofs."        
+    },
+        
+    {
+        "key": "10000108", 
+        "country": "MALDIPS",       
+        "location": "MALE",    
+        "image": "https://i.ibb.co/CWXz34V/maldip.jpg",   
+        "description": "The Maldives consists of 1,190 coral islands grouped in a double chain of twenty-seven atolls situated in the Indian Ocean. Most atolls consist of a large, ring-shaped coral reef supporting numerous small islands. The country covers an area approximately 90,000 square kilometres, of which only 298 square kilometres is dry land. The islands are of average one to two square kilometres in area, and no individual island is longer than eight kilometres. The Maldives lies between 1-1.5 meters above sea level, with the highest island situated at 3 meters above sea level. Maldives is largely flat and has no land features such as hills or rivers, but some islands have dunes such as that found in Hithadhoo island of Addu Atoll, and wetlands and marshes such as those found in the Fuvahmulah island of Gnaviyani Atoll. The Maldives is renowned for its white sandy beaches, pristine turquoise waters and unique underwater marine life. In 2011, Baa Atoll, which is home to a globally significant biodiversity among its numerous reefs in the Indian Ocean, became a designated UNESCO Biosphere Reserve. The people of the Maldives islands are widely dispersed across the atolls, with about 200 inhabited islands. About 164 islands are developed as tourist resorts and the remaining islands are uninhabited or used for agriculture & other livelihood purposes.The capital of the Maldives is Male."        
+    }     
+        
+    
+]
