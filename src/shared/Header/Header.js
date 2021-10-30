@@ -16,10 +16,11 @@ const Header = () => {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">
                         <NavLink className="header-text" to="/home" activeStyle={{ fontWeight: "bold", color: "red" }}> Home </NavLink>      
-                        <NavLink className="header-text" to="/donation" activeStyle={{ fontWeight: "bold", color: "red" }}> Donation </NavLink>      
+                        <NavLink className="header-text" to="/pakage" activeStyle={{ fontWeight: "bold", color: "red" }}> Pakage Review </NavLink>      
                         <NavLink className="header-text" to="/events" activeStyle={{ fontWeight: "bold", color: "red" }}>Events </NavLink>      
                         <NavLink className="header-text" to="/blogs" activeStyle={{ fontWeight: "bold", color: "red" }}> Blogs </NavLink>                             
-                        <NavLink className="header-text" to="/register" activeStyle={{ fontWeight: "bold", color: "red" }}> Register </NavLink>      
+                        <NavLink className="header-text" to="/register" activeStyle={{ fontWeight: "bold", color: "red" }}> Register </NavLink>  
+                        <span>{user.displayName}</span>    
                        {!user?.email? <> <NavLink className="header-text" to="/login" activeStyle={{ fontWeight: "bold", color: "red" }}> Log in </NavLink> </> : 
                        <NavLink onClick={signout} className="header-text" to="/login" activeStyle={{ fontWeight: "bold", color: "red" }}> Log out </NavLink>}
                     </Nav>
