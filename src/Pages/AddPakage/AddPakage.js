@@ -5,7 +5,7 @@ import './AddPakage.css'
 
 const AddPakage = () => {const { register, handleSubmit, reset } = useForm();
 const onSubmit = data => {
-    axios.post('http://localhost:5000/pakages', data)
+    axios.post('https://wicked-blood-41231.herokuapp.com/pakages', data)
     .then(res => {
         if(res.data.insertedId){
            alert('Added Successfully');
@@ -15,8 +15,7 @@ const onSubmit = data => {
     })
 }
     return (
-        <div className="add-service">
-            <h2>Please Add a service</h2>
+        <div className="add-service">            
             <form onSubmit={handleSubmit(onSubmit)}>
             <input {...register("country", { required: true, maxLength: 20 })} placeholder="Country" />            
             <input {...register("location", { required: true, maxLength: 20 })} placeholder="Location" />            

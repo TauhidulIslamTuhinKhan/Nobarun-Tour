@@ -7,10 +7,11 @@ import Login from './Pages/Login/Login/Login';
 import AuthProvider from './Context/AuthProvider';
 import Footer from './shared/Footer/Footer';
 import AddPakage from './Pages/AddPakage/AddPakage';
-import UpdatePakages from './Pages/UpdatePakages/UpdatePakages';
-import PlaceOrder from './Pages/PlaceOrder/PlaceOrder';
 import PrivateRoute from './Pages/PrivateRoute/PrivateRoute';
 import Booking from './Pages/Booking/Booking';
+import MyPakage from './Pages/MyPakage/MyPakage';
+import ManagePakage from './Pages/ManagePakage/ManagePakage';
+
 
 function App() {
   return (
@@ -25,21 +26,22 @@ function App() {
           <Route exact path='/home'>
             <Home></Home>
           </Route>
+          <Route path='/pakage'>
+            <MyPakage></MyPakage>
+          </Route>
+          <Route path='/managepakage'>
+            <ManagePakage></ManagePakage>
+          </Route>
+          <Route path='/addPakage'>
+            <AddPakage></AddPakage>
+          </Route>
           <Route path='/login'>
             <Login></Login>
           </Route>
           <PrivateRoute path='/booking/:pakageID'>
             <Booking></Booking>
-          </PrivateRoute>
-          <PrivateRoute path='/placeorder'>
-            <PlaceOrder></PlaceOrder>
-          </PrivateRoute>
-          <Route path='/addPakage'>
-            <AddPakage></AddPakage>
-          </Route>
-          <Route path='/updatePakages'>
-            <UpdatePakages></UpdatePakages>
-          </Route>
+          </PrivateRoute>    
+                 
         </Switch>
         <Footer></Footer>
       </Router>

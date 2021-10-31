@@ -20,8 +20,7 @@ const Login = () => {
         <div className="container d-flex justify-content-center pt-5">
             <div className="login-page">
                 <h4>Please Login</h4> 
-                <button onClick={handleGoogleLogin}> Continue with Google</button>               
-                <span>Don't have an account?</span><Link to='/register'>Creat an account</Link>
+                <button onClick={handleGoogleLogin}> Continue with Google</button>                    
             </div>            
         </div>
     );
