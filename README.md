@@ -2,14 +2,12 @@
 
 Live Site Link : https://nobarun-tour.web.app/
 
-## Nobarun Tour provides you a excellient tour.
+## Simple Tour planning website.
 
-## Our Holet reservation is world class.
+## Clients can choose any packages for their demand and also can cancel.
 
-## We care about Safty.
+## When the client wants to book a package they need to register or login by firebase system.
 
-## We will provide you the ticket processing service (if need).
 
-## Nobarun Tour also support the about VISA processing.
 
 
